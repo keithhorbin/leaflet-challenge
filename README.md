@@ -21,6 +21,4 @@ In order to run this locally you will need a Mapbox supplied API key and will ha
 
 Below is sample output if you provide an API key and build the code. 
 
-
-
-![Capture](C:\Users\Admin\Desktop\Homework\leaflet-challenge\Capture.PNG)
+https://github.com/keithhorbin/leaflet-challenge/blob/master/Capture.PNG
