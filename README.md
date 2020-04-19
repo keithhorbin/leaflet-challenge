@@ -23,4 +23,4 @@ Below is sample output if you provide an API key and build the code.
 
 
 
-![image-20200419152653292](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20200419152653292.png)
+![Capture](C:\Users\Admin\Desktop\Homework\leaflet-challenge\Capture.PNG)
